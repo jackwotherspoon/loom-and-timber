@@ -1,10 +1,10 @@
 import { ShoppingBag, Menu, ArrowRight } from 'lucide-react';
 
 const products = [
-  { id: 1, name: 'Koto Lounge Chair', price: '$899', image: '/images/chair.png', category: 'Seating' },
-  { id: 2, name: 'Odin Dining Table', price: '$1,299', image: '/images/table.png', category: 'Tables' },
-  { id: 3, name: 'Lyla Bouclé Sofa', price: '$2,499', image: '/images/sofa.png', category: 'Seating' },
-  { id: 4, name: 'Ash Coffee Table', price: '$549', image: '/images/coffeetable.png', category: 'Tables' },
+  { id: 1, name: 'Koto Lounge Chair', price: '$399', image: '/images/chair.png', category: 'Seating' },
+  { id: 2, name: 'Odin Dining Table', price: '$599', image: '/images/table.png', category: 'Tables' },
+  { id: 3, name: 'Lyla Bouclé Sofa', price: '$899', image: '/images/sofa.png', category: 'Seating' },
+  { id: 4, name: 'Ash Coffee Table', price: '$249', image: '/images/coffeetable.png', category: 'Tables' },
 ];
 
 function App() {
